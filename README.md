@@ -53,8 +53,8 @@ Un sistema de diagnóstico médico que **aprende continuamente** de:
 │  │ Búsqueda léxica     │  │    │  • Agente crítico            │
 │  └─────────────────────┘  │    │  • Detector de patrones      │
 │  ┌─────────────────────┐  │    └──────────────────────────────┘
-│  │ FAISS Vector (70%)  │  │
-│  │ Búsqueda semántica  │  │
+│  │ Chroma Vector       │  │
+│  │ Búsqueda vector     │  │
 │  └─────────────────────┘  │
 └───────────────────────────┘
                 │
